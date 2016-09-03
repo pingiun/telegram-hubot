@@ -1,0 +1,16 @@
+{
+  "name": "telegram-hubot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Jelle Besseling <jellebesseling@gmail.com>",
+  "description": "A basic telegram hubot package that does nothing",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-help": "^0.2.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-telegram": "^0.1.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
